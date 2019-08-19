@@ -1,0 +1,18 @@
+INDEX VERSION 1.131+/home/train/eclipse-workspace/ArrayList/.metadata/.plugins/org.eclipse.jdt.core
+2055901506.index
+1328862721.index
+1150651379.index
+1604456715.index
+4199585208.index
+1764136523.index
+1425285499.index
+1334770823.index
+1747868617.index
+1346331388.index
+3679605699.index
+4188081914.index
+341176720.index
+3158535180.index
+2372977475.index
+660711701.index
+1993042143.index
